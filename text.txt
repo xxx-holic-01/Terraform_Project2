@@ -1,0 +1,8 @@
+Provitioning software 
+two ways :
+packer - to build own custom image AMI 
+to boot std ami's and then install things # chef,ansible,puppet
+
+chef is integrated with terrafoem
+can run puppet using remote-exec
+for ansible , just write ansible-playbooks on ip hosts 
